@@ -1,9 +1,9 @@
 import React from "react";
 
-function Menu(props) {
+function List(props) {
     return (
       <h1>Hola Mundo</h1>  
     );
 }
 
-export default Menu;
+export default List;
